@@ -11,9 +11,10 @@ Auto Do It is a productivity app I built to manage tasks with a clean, intuitive
 
 ## Screenshots
 
-![App Icon](AppIconTODOLIST.png)
-![Auto Do It](AutoDoItAppIconFinal.png)
-![Do It To It](DoItToItAppIconFinal.png)
+![Screenshot 01](Screenshots/01.png)
+![Screenshot 02](Screenshots/02.png)
+![Screenshot 03](Screenshots/03.png)
+![Screenshot 04](Screenshots/04.png)
 
 
 ## Description
