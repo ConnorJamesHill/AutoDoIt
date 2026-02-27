@@ -11,10 +11,12 @@ Auto Do It is a productivity app I built to manage tasks with a clean, intuitive
 
 ## Screenshots
 
-<img src="Screenshots/01.png" width="250" alt="Screenshot 01">
-<img src="Screenshots/02.png" width="250" alt="Screenshot 02">
-<img src="Screenshots/03.png" width="250" alt="Screenshot 03">
-<img src="Screenshots/04.png" width="250" alt="Screenshot 04">
+<p align="center">
+  <img src="Screenshots/01.png" width="200" alt="Screenshot 01">
+  <img src="Screenshots/02.png" width="200" alt="Screenshot 02">
+  <img src="Screenshots/03.png" width="200" alt="Screenshot 03">
+  <img src="Screenshots/04.png" width="200" alt="Screenshot 04">
+</p>
 
 
 ## Description
