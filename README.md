@@ -41,9 +41,9 @@ Firebase is added via Swift Package Manager.
 
 ## What I Learned
 
-Auto Do It started as a way to learn SwiftUI and Firebase while building something I would actually use. I wanted a to-do app that felt simple but could handle real projects — tasks with subtasks, sections, and due dates. The AI feature is what gave the app its name: I wanted to reduce the friction of starting a new list. Instead of staring at a blank screen, you describe what you're planning (e.g., "trip to Japan" or "launch a side project") and get a structured list you can tweak and save — automatically.
+Auto Do It started as a way to learn SwiftUI and Firebase while building something I would actually use. I wanted a to-do list app that felt simple but could handle real projects by providing tasks with subtasks, sections, and due dates. The AI feature is what gave the app its name: I wanted to reduce the friction of starting a new list by allowing the user to create a list automatically. Instead of staring at a blank screen, you describe what you are planning (e.g., "trip to Japan" or "launch a side project for x") and get a structured list you can tweak and save automatically.
 
-The biggest challenge was the AI integration. Getting OpenAI to return a consistent, parseable format (tasks and subtasks with a specific delimiter structure) took a lot of prompt iteration. The parsing logic in AIView — splitting on `###` and `>>>` — had to be robust enough to handle variations in the model's output.
+The biggest challenge was the AI integration. Getting OpenAI to return a consistent, parseable format (tasks and subtasks with a specific delimiter structure) took a lot of prompt iteration. The parsing logic in AIView (splitting on `###` and `>>>`) had to be robust enough to handle variations in the model's output.
 
 I also learned a lot about Firestore's real time listeners and the `@FirestoreQuery` property wrapper. Keeping tasks, subtasks, and sections in sync across nested collections required careful data modeling.
 
