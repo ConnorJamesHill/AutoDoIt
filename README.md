@@ -1,6 +1,6 @@
 # Welcome to Auto Do It!
 
-Auto Do It is a productivity app I built to manage tasks with a clean, intuitive interface. The name is a play on words: *you ought to do it* — and *automatically* doing it using AI. Create tasks with subtasks, track what's done, and use AI to generate entire to-do lists from a topic. Everything syncs in real time across your devices.
+Auto Do It is a productivity app I built to manage tasks with a clean, intuitive interface. Create tasks with subtasks, track what's done, and use AI to generate entire to-do lists from a topic. Everything syncs in real time across your devices.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
